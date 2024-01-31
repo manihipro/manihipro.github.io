@@ -1,2 +1,2 @@
 # manihipro.github.io
-Github Action Site to drive the site "https://manihi.pro"
+manihipro.github.io is used by GitHub Actions to deploy manihi.pro.site files. This project drives the live "manihi.pro" web site.
